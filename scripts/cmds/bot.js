@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "bot",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "বট সম্পর্কিত তথ্য"
 };
 
