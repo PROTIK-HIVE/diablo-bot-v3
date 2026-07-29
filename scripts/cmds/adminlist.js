@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "adminlist",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "এডমিন লিস্ট"
 };
 
