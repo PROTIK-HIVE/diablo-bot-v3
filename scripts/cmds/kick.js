@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "kick",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "মেম্বার কিক দেওয়া"
 };
 
