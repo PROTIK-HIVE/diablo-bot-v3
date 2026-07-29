@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "roast",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "আইকনিক রোস্টিং কমান্ড"
 };
 
