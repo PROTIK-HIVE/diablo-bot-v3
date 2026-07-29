@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "avatar",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "প্রোফাইল পিকচার লিংক"
 };
 
