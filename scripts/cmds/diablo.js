@@ -2,7 +2,7 @@ const { GoogleGenAI } = require("@google/genai");
 
 module.exports.config = {
   name: "diablo",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "Diablo Gemini AI Roasting Brain"
 };
 
