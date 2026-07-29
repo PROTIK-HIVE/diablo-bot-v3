@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "ping",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "বট স্পিড টেস্ট"
 };
 
