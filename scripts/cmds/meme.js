@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "meme",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "মিম মেসেজ"
 };
 
