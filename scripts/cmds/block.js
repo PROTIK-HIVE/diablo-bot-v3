@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "block",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "ইউজার ব্লক করা"
 };
 
