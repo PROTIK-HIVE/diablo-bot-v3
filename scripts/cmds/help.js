@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "help",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "হেল্প কমান্ড"
 };
 
