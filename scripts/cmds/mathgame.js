@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "mathgame",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "সহজ ম্যাথ গেম"
 };
 
