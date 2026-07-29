@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "calc",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "নিরাপদ ক্যালকুলেটর"
 };
 
