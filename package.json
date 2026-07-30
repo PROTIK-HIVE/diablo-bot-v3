@@ -1,7 +1,7 @@
 {
   "name": "diablo-bot-v3",
   "version": "3.0.0",
-  "description": "Diablo Bot v3.0 - Iconic Roasting Bot by Protik Shah",
+  "description": "Diablo Bot v3.0 - Iconic Roasting Bot by Pratik Shah",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -11,10 +11,10 @@
     "@google/generative-ai": "^0.21.0",
     "axios": "^1.6.8",
     "fs-extra": "^11.2.0",
-    "uuid": "^8.3.2"
+    "uuid": "3.4.0"
   },
   "overrides": {
-    "uuid": "^8.3.2"
+    "uuid": "3.4.0"
   },
   "author": "Protik Shah",
   "license": "ISC"
