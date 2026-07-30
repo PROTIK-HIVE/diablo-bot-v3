@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "groupinfo",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "গ্রুপের তথ্য"
 };
 
