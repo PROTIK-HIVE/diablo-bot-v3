@@ -1,3 +1,16 @@
+console.log("====================================");
+console.log("🚀 STARTING DIABLO BOT V3...");
+console.log("====================================");
+
+process.on('uncaughtException', (err) => {
+  console.log('❌ CRASH DETECTED (uncaughtException):');
+  console.error(err);
+});
+
+process.on('unhandledRejection', (reason, promise) => {
+  console.log('❌ CRASH DETECTED (unhandledRejection):');
+  console.error(reason);
+});
 // --- CRASH PREVENTER & ERROR LOG LOGIC ---
 process.on('uncaughtException', (err) => {
   console.log('❌ UNCAUGHT EXCEPTION ERROR:');
