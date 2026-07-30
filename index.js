@@ -1,3 +1,13 @@
+// --- CRASH PREVENTER & ERROR LOG LOGIC ---
+process.on('uncaughtException', (err) => {
+  console.log('❌ UNCAUGHT EXCEPTION ERROR:');
+  console.error(err);
+});
+
+process.on('unhandledRejection', (reason, promise) => {
+  console.log('❌ UNHANDLED REJECTION AT:', promise, 'REASON:', reason);
+});
+// ----------------------------------------
 const login = require("fca-project-orion");
 const fs = require("fs-extra");
 const path = require("path");
