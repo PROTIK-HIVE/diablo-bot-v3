@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "owner",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "বট অনার তথ্য"
 };
 
