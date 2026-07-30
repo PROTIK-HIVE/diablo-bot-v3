@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "crypto",
-  author: "Pratik Shah",
+  author: "Protik Shah",
   description: "ক্রিপ্টো আপডেট"
 };
 
