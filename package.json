@@ -1,7 +1,7 @@
 {
   "name": "diablo-bot-v3",
   "version": "3.0.0",
-  "description": "Diablo Bot v3.0 - Iconic Roasting Bot by Pratik Shah",
+  "description": "Diablo Bot v3.0 - Iconic Roasting Bot by Protik Shah",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
